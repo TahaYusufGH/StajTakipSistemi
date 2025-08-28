@@ -158,3 +158,4 @@ Uygulama aşağıdaki resmi tatilleri dikkate alır (2024 yılı için):
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
+<img width="1505" height="729" alt="Ekran görüntüsü 2025-08-26 114040" src="https://github.com/user-attachments/assets/bce40fcf-dbb5-449a-a29a-83e49fdf4b47" />
